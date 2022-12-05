@@ -14,19 +14,19 @@ Application that consumes DMI forecast data and displays data on a screen.
 
 ### API
 
-[ ] Choose cloud provider
-[ ] Create parsing service of weather forecast
-[ ] Create data endpoint
-[ ] Create health endpoint
-[ ] Manage secrets
-[ ] Setup Docker infrastructure
-[ ] Setup CI/CD
-[ ] Deploy
+- [ ] Choose cloud provider
+- [ ] Create parsing service of weather forecast
+- [ ] Create data endpoint
+- [ ] Create health endpoint
+- [ ] Manage secrets
+- [ ] Setup Docker infrastructure
+- [ ] Setup CI/CD
+- [ ] Deploy
 
 ### Display
 
-[ ] Build device
-[ ] Consume API
-[ ] Write display code
-[ ] Take pictures
+- [ ] Build device
+- [ ] Consume API
+- [ ] Write display code
+- [ ] Take pictures
 
